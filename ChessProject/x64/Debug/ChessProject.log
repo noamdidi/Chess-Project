@@ -1,0 +1,17 @@
+﻿  Bishop.cpp
+  Board.cpp
+  Empty.cpp
+  King.cpp
+  Knight.cpp
+  Pawn.cpp
+  Piece.cpp
+  Queen.cpp
+  Rook.cpp
+  Source.cpp
+C:\Magshimim OOP\ChessProject\lesson 7+8\lesson-7-chess-project\ChessProject\ChessProject\Source.cpp(18,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Tile.cpp
+  Generating Code...
+C:\Magshimim OOP\ChessProject\lesson 7+8\lesson-7-chess-project\ChessProject\ChessProject\Board.cpp(218): warning C4715: 'Board::Move': not all control paths return a value
+C:\Magshimim OOP\ChessProject\lesson 7+8\lesson-7-chess-project\ChessProject\ChessProject\Board.cpp(249): warning C4172: returning address of local variable or temporary: toRet
+C:\Magshimim OOP\ChessProject\lesson 7+8\lesson-7-chess-project\ChessProject\ChessProject\Board.cpp(301): warning C4715: 'TranslateLetterToIndex': not all control paths return a value
+  ChessProject.vcxproj -> C:\Magshimim OOP\ChessProject\lesson 7+8\lesson-7-chess-project\ChessProject\x64\Debug\ChessProject.exe
