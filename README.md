@@ -6,6 +6,7 @@ Nice and lovely-designed chess project using C++
 
 This chess project contains a C++ server (or engine) that is responsible for moving the pieces, arranging them and move the turn from one player to another.
 The server communicates with a royal-designed graphic interface that was written in C# over sockets.
+The whole project required building classes, describing the relationship between them in detail and an extensive use of OOP principles.
 
 ## Examples
 
